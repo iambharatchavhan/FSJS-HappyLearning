@@ -19,6 +19,16 @@
     align-items: center;
 
 }
+nav .logo{
+    width: 10%;
+    margin-right: 80px;
+}
+nav .grow-list{
+    width: 80%;
+}
+nav .button-group{
+    width: 10%;
+}
 .container .navbar-container .grow-list .list{
     display: flex;
     list-style: none;  
